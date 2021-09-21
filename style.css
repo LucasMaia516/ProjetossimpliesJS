@@ -1,0 +1,38 @@
+body {
+
+    background-image:linear-gradient(to left, rgb(95, 95, 129), rgb(78, 65, 65))
+}
+
+header {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    padding: 1px ;
+    
+}
+
+div {
+    text-align: center;
+    color: rgb(7, 7, 7);
+    padding: 7px;
+    
+}
+
+footer {
+
+    text-align: center;
+    color: white;
+    font-style: italic;
+}
+
+section {
+    border-radius: 33px 33px 33px;
+    margin: auto;
+    background-color: rgba(207, 190, 190, 0.904);
+    height: 350px;
+    width: 500px;
+    box-shadow: 5px 5px 5px rgb(14, 13, 13);
+
+}
+
+
